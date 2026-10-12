@@ -1,4 +1,4 @@
-# Unit Converter API
+# Unit Converter Project
 
 ## Overview
 
@@ -33,7 +33,7 @@ dotnet --version
 
 ```bash
 git clone <repository-url>
-cd unit-converter-api
+cd unit-conversion-project
 ```
 
 ### Restore Dependencies
