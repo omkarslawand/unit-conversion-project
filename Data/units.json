@@ -1,0 +1,54 @@
+{
+  "Length": {
+    "BaseUnit": "Meter",
+    "Units": {
+      "Meter": 1,
+      "Kilometer": 1000,
+      "Foot": 0.3048,
+      "Inch": 0.0254
+    }
+  },
+  "Weight": {
+    "BaseUnit": "Kilogram",
+    "Units": {
+      "Kilogram": 1,
+      "Gram": 0.001,
+      "Pound": 0.453592
+    }
+  },
+  "Volume": {
+    "BaseUnit": "Litre",
+    "Units": {
+      "Litre": 1,
+      "Mililitre": 0.001
+    }
+  },
+  "Temperature": {
+    "Units": {
+      "Celsius": 1,
+      "Fahrenheit": 1,
+      "Kelvin": 1
+    }
+  },
+  "Time": {
+    "BaseUnit": "Second",
+    "Units": {
+      "Millisecond": 0.001,
+      "Second": 1,
+      "Minute": 60,
+      "Hour": 3600
+    }
+  },
+  "Area": {
+    "BaseUnit": "SquareMeter",
+    "Units": {
+      "SquareMeter": 1,
+      "SquareKilometer": 1000000,
+      "SquareCentimeter": 0.0001,
+      "SquareFoot": 0.092903,
+      "SquareInch": 0.00064516,
+      "Acre": 4046.8564224,
+      "Hectare": 10000
+    }
+  }
+}
